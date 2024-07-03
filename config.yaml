@@ -1,0 +1,23 @@
+batches:
+  batch1: "data/Raw_data/batch1"
+  # batch2: "data/Raw_data/batch2"
+  # batch3: "data/Raw_data/batch3"
+  # batch4: "data/Raw_data/batch4"
+
+strand_files:
+  batch1: "data/strand_files/HumanOmni2-5Exome-8-v1-1-A-strand-b37/HumanOmni2-5Exome-8-v1-1-A-b37.strand"
+  # batch2: "data/strand_files/InfiniumOmni2-5Exome-8v1-3-A1-strand-b37/InfiniumOmni2-5Exome-8v1-3_A1-b37.strand"
+  # batch3: "data/strand_files/InfiniumOmni2-5Exome-8v1-3-A1-strand-b37/InfiniumOmni2-5Exome-8v1-3_A1-b37.strand"
+  # batch4: "data/strand_files/InfiniumOmni2-5Exome-8v1-4-A1-strand-b37/InfiniumOmni2-5Exome-8v1-4_A1-b37.strand"
+
+rsid_files:
+  batch1: "data/strand_files/HumanOmni2-5Exome-8-v1-1-A-strand-b37/HumanOmni25Exome-8v1-1_A_rsids.txt"
+  # batch2: "data/strand_files/InfiniumOmni2-5Exome-8v1-3-A1-strand-b37/InfiniumOmni2-5Exome-8v1-3_A1_b144_rsids.txt"
+  # batch3: "data/strand_files/InfiniumOmni2-5Exome-8v1-3-A1-strand-b37/InfiniumOmni2-5Exome-8v1-3_A1_b144_rsids.txt"
+  # batch4: "data/strand_files/InfiniumOmni2-5Exome-8v1-4-A1-strand-b37/InfiniumOmni2-5Exome-8v1-4_A1_b150_rsids.txt"
+
+human_g1k_v37_path: "data/ref_37/human_g1k_v37.fasta"
+GRCh37_path: "data/ref_37/human_g1k_v37.fasta.gz"
+GRCh38_path: "data/ref_38/GCA_000001405.15_GRCh38_no_alt_analysis_set.fna.gz"
+chain_file: "data/chain_files/hg38ToHg19over.chain.gz"
+ref_frq_file: "data/ref_37/ref_data_from_ALL_wgs.phase3.frq"

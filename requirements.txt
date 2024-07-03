@@ -1,0 +1,36 @@
+# Data Handling and Visualization
+# pandas
+# networkx
+# pyvis
+# PyYAML
+
+# GWAS tools
+git+https://github.com/flight505/pandas-plink.git
+
+# Web Framework and User Interface
+streamlit
+watchdog
+ipykernel
+
+# AI and Machine Learning
+# openai
+# langchainhub
+# langgraph
+# langchain
+# langchain-core
+# langchain-openai
+# langchain-community
+# llama-index
+# llama-index-llms-openai
+# llama-index-embeddings-openai
+# llama-index-graph-stores-nebula
+# llama-index-embeddings-instructor
+# llama-index-embeddings-huggingface
+# nebula3-python
+# nltk
+
+# Utility and Miscellaneous
+# bibtexparser
+# beautifulsoup4
+icecream
+# tenacity
