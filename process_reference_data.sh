@@ -1,5 +1,6 @@
 #!/bin/bash
 
+# Written by Jesper Vang @DTU 2024
 # uses https://savannah.gnu.org/projects/parallel/ 
 # install with: brew install parallel
 # enter once in terminal to remove the citation request: parallel --citation

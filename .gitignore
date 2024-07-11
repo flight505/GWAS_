@@ -149,3 +149,4 @@ infer_strand_orientation.py
 *.vcf.gz
 chr_names.txt
 ref_data.frq
+.aider*
